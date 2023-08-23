@@ -7,7 +7,8 @@ This directery of **My-learning** repository is all about my learning about **DO
 - run `docker build -t <image-name> .`
 - run `docker run -d -p 8080:80 <image-name>`
   
- ![Alt](<img.png>)
+![Alt text](<Screenshot 2023-08-23 174433.png>)
+
 ```bash
 Tindog is running at localhost:8080
 ```
